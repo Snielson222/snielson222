@@ -4,6 +4,6 @@ My experience extends beyond the realm of software engineering. Working as a car
 
 Beyond my technical aptitude, I place great value on soft skills cultivated through various experiences. Cooperation, communication, and understanding are integral components of my approach, not only within the professional sphere but also in my daily life. Outside of work, I find joy in diverse pursuits. I'm an avid chef, an enthusiastic hiker, and I enjoy bonding over video games with my wife. These activities reflect my commitment to a balanced and fulfilling life.
 
-Proficient in crafting robust full-stack applications using a tech stack that includes React.js, Express, Python, Flask, SQLALchemy, Sequelize, SQLite3, PostgreSQL, and Alembic.
+Proficient in crafting robust full-stack applications using a tech stack that includes React.js, React Native, Express, Remix, Flask, SQLALchemy, Sequelize, SQLite3, PostgreSQL, Prisma, and Alembic.
 
-Versatile in a range of technologies and languages, encompassing CSS, HTML, JSX, AWS S3, Docker, Google OAuth, Alembic, Git, Render, Faker, NPM, and Media Queries.
+Versatile in a range of technologies and languages, encompassing JavaScript, TypeScript, Python, CSS, HTML, JSX, AWS S3, Docker, Google OAuth, Alembic, Git, Render, Faker, NPM, and Media Queries.
