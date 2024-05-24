@@ -1,5 +1,5 @@
 Proficient in crafting robust full-stack applications, my tech stack includes React.js, React Native, Express, Flask, SQLAlchemy, Sequelize, PostgreSQL, and more. I'm versatile in various technologies and languages like JavaScript, TypeScript, Python, CSS, HTML, AWS S3, Docker, Google OAuth, Git, NPM, and more.
 
-Greetings! I'm a dedicated software engineer at Chomee and a proud graduate of App Academy. My journey blends a master's degree in research psychology with bachelor's degrees in psychology and philosophy, instilling in me a passion for learning and valuable skills like logical thinking and critical analysis.
+I'm a dedicated software engineer at Chomee and a proud graduate of App Academy. My journey blends a master's degree in research psychology with bachelor's degrees in psychology and philosophy, instilling in me a passion for learning and valuable skills like logical thinking and critical analysis.
 
 Beyond technical expertise, I prioritize soft skills like cooperation and communication, evident in both my professional and personal life. Outside of work, I find joy in diverse pursuits like cooking, hiking, and gaming with my wife, reflecting my commitment to a balanced and fulfilling lifestyle.
